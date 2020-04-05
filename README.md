@@ -1,24 +1,19 @@
-# README
+An Instagram clone that was built using industry-standard, test-driven development following numerous red/green/refactor cycles.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Built using:
+- Ruby v2.5.3
+- HTML5
+- CSS
+- Bootstrap 4.3.1
+- JQuery
+- Popper JS
+- Font Awesome
 
-Things you may want to cover:
 
-* Ruby version
+#### Ruby Gems used:
+- Carrierwave
+- Figaro
+- Simple-Form
+- Devise
+- Spring Commands R-spec
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
